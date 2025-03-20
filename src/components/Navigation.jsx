@@ -9,7 +9,7 @@ const Navigation = () => {
 	const [open, setOpen] = useState(false)
 
 	return (
-		<div className="flex justify-between p-8 w-full fixed top-0 text-[#e5e5e5] bg-linear-[180deg,rgba(0,0,0,1)20%,transparent] z-100">
+		<div className="flex justify-between p-10 w-full fixed top-0 text-[#e5e5e5] bg-linear-[180deg,rgba(0,0,0,1)20%,transparent] z-100">
 			<div className="flex items-center gap-4">
 				<img src={logo} alt="" className="w-[70px]" />
 				<ul className="flex gap-4 text-[14px] ">

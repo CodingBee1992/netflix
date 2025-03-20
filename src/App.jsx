@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div >
       {/* <Login /> */}
-      <Home />
+      <Home/>
       {/* <Player /> */}
     </div>
   )

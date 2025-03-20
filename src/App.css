@@ -28,3 +28,8 @@ li,.pointer,.dropdown{
 	-webkit-mask-image: linear-gradient(to right, transparent, #000000 75%);
 	
 }
+
+.webkit::-webkit-scrollbar{
+		display: none;
+	
+}
